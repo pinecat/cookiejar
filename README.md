@@ -15,8 +15,8 @@ Note: Each value is separated by a single tab (`\t`) character.
 | path | Path on the domain indicating where the cookie is valid. | /
 | secure | If the cookie was sent/received over HTTPS. | TRUE
 | expiration-date | When the cookie expires in UNIX time. | 1462299218
-| name | Name of the issued cookie. | user
-| value | Value of the issued cookie. | guest
+| name | Name of the issued cookie. | wom
+| value | Value of the issued cookie. | bat
 
 You can read more about the Netscape format at the links below:
 - [HTTP Cookies (curl.se)](https://curl.se/docs/http-cookies.html)
